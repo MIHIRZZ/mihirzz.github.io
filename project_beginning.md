@@ -40,3 +40,11 @@ if it doesn't matter if it creates new folder
 
 ### apply sheet
 `npx shadcn-ui@latest add sheet`
+
+### apply mobile nav
+
+### apply next theme
+to change theme to dark mode or light mode
+`npm i next-themes`
+and install shadcn dropdown
+`npx shadcn-ui@latest add dropdown-menu`
