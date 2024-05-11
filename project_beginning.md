@@ -48,3 +48,11 @@ to change theme to dark mode or light mode
 `npm i next-themes`
 and install shadcn dropdown
 `npx shadcn-ui@latest add dropdown-menu`
+
+### handle the no cotents and mdx components
+
+### load all static pages at runtime
+
+### utilize tailwind typography
+`npm install -D @tailwindcss/typography`
+this will handle all the html tags
