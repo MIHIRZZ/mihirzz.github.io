@@ -35,3 +35,8 @@ if it doesn't matter if it creates new folder
 
 
 ### change next.config.mjs
+
+### apply links
+
+### apply sheet
+`npx shadcn-ui@latest add sheet`
