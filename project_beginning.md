@@ -30,3 +30,8 @@ if it doesn't matter if it creates new folder
 - ✔ Which style would you like to use? › Default
 - ✔ Which color would you like to use as base color? › Slate
 - ✔ Would you like to use CSS variables for colors? › yes
+
+### install velite
+
+
+### change next.config.mjs
