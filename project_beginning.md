@@ -56,3 +56,8 @@ and install shadcn dropdown
 ### utilize tailwind typography
 `npm install -D @tailwindcss/typography`
 this will handle all the html tags
+
+### style the code blocks
+`npm i rehype-pretty-code -D`
+`npm i rehype-autolink-headings -D`
+`npm i rehype-slug -D`
