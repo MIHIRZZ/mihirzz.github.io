@@ -64,3 +64,6 @@ this will handle all the html tags
 
 ### add pagination
 `npx shadcn-ui@latest add pagination`
+
+### add avatar
+`npx shadcn-ui@latest add avatar`
