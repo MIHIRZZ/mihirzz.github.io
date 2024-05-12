@@ -61,3 +61,6 @@ this will handle all the html tags
 `npm i rehype-pretty-code -D`
 `npm i rehype-autolink-headings -D`
 `npm i rehype-slug -D`
+
+### add pagination
+`npx shadcn-ui@latest add pagination`
