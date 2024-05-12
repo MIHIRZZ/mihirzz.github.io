@@ -9,7 +9,7 @@ export const siteConfig = {
     links: {
         twitter: "https://twitter.com/MIHIRZZ",
         github: "https://github.com/MIHIRZZ",
-        personalsite: "https://mihirzz.github.io/",
+        personalSite: "https://mihirzz.github.io/",
     },
 }
 
