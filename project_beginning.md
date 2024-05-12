@@ -67,3 +67,8 @@ this will handle all the html tags
 
 ### add avatar
 `npx shadcn-ui@latest add avatar`
+
+### set the opengraph image
+to display image when someone share the content in any platform like twitter, etc.
+
+### set metadata for SEO

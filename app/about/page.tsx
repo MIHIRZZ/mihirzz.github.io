@@ -1,6 +1,13 @@
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar"
 import { siteConfig } from "@/config/site"
 
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About Me",
+  description: "Information about me",
+};
+
 export default async function AboutPage() {
     return <div className="container max-w-6xl py-6 lg:py-10">
         <div className="flex flex-col items-start gap-4 md:flex-row md:justify-between md:gap-8">
